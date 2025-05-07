@@ -2,4 +2,18 @@ baseURL = "https://example.org/"
 languageCode = "ko-kr"
 title = "작은 성장의 기록"
 theme = "hugo-theme-stack"
+
+# 이 설정을 추가하여 Git 정보로부터 lastmod 값을 자동 생성합니다
 enableGitInfo = true
+
+# 기본 날짜 포맷 설정
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+[params]
+  mainSections = ["post"]
+  description = "작은 성장의 기록"
+  
+  [params.dateFormat]
+    published = "Jan 02, 2006"
+    lastUpdated = "Jan 02, 2006 15:04 MST"

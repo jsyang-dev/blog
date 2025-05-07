@@ -1,0 +1,7 @@
+baseURL = "https://example.org/"
+languageCode = "ko-kr"
+title = "작은 성장의 기록"
+theme = "hugo-theme-stack"
+
+[params]
+description = "나만의 블로그 설명"

@@ -83,7 +83,9 @@ draft: false
 |             | 16:10 ~ 16:40 | 이동                                                                  |                                                                        |
 |             | 16:40 ~ 19:35 | 후쿠오카공항                                                              |                                                                        |
 |             | 19:35 ~ 21:00 | 비행                                                                  |                                                                        |
-![[tenjin-coin-locker-location 1.jpg]]
+
+![덴진역 코인락커 위치](tenjin-coin-locker-location.jpg)
+
 ## 링크
 - 야나가와 뱃놀이: http://www.ensen24.jp/kippu/kr/dazaifu-yanagawa02/
 - 마린월드 쇼 시간표: https://marine-world.jp/show_schedule/post-6248/
